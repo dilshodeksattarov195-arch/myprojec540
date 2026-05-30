@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvync",
+        "uuid": 800280,
+        "checksum": "a1lf5n"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
